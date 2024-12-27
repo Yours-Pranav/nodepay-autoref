@@ -1,3 +1,10 @@
-#Just example, please delete!
-http://proxyhost:port
-http://user:pass@proxyhost:port
+http://198.23.239.134:6540:edzseong:e9z3b1syj4qv
+http://207.244.217.165:6712:edzseong:e9z3b1syj4qv
+http://107.172.163.27:6543:edzseong:e9z3b1syj4qv
+http://64.137.42.112:5157:edzseong:e9z3b1syj4qv
+http://173.211.0.148:6641:edzseong:e9z3b1syj4qv
+http://161.123.152.115:6360:edzseong:e9z3b1syj4qv
+http://167.160.180.203:6754:edzseong:e9z3b1syj4qv
+http://154.36.110.199:6853:edzseong:e9z3b1syj4qv
+http://173.0.9.70:5653:edzseong:e9z3b1syj4qv
+http://173.0.9.209:5792:edzseong:e9z3b1syj4qv
